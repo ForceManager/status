@@ -6,7 +6,7 @@ sites:
     url: https://api.forcemanager.net/healthcheck
   - name: APP
     url: https://app.forcemanager.net
-  - name: BE-PRO
+  - name: BACKEND
     url: https://be-pro.forcemanager.net/healthcheck.ashx
 
 status-website:
