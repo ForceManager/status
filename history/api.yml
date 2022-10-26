@@ -1,7 +1,7 @@
-url: https://api.forcemanager.net/healthcheck
+url: $URL_API
 status: up
 code: 200
-responseTime: 462
-lastUpdated: 2022-10-25T23:02:38.660Z
+responseTime: 619
+lastUpdated: 2022-10-26T09:14:50.057Z
 startTime: Tue Oct 25 2022 15:04:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
