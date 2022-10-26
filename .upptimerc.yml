@@ -3,11 +3,11 @@ repo: status
 
 sites:
   - name: API
-    url: https://api.forcemanager.net/healthcheck
+    url: $URL_API
   - name: APP
-    url: https://app.forcemanager.net
+    url: $URL_APP
   - name: BACKEND
-    url: https://be-pro.forcemanager.net/healthcheck.ashx
+    url: $URL_BACKEND
 
 status-website:
   cname: status.forcemanager.com
