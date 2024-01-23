@@ -13,7 +13,7 @@
     "time": 471,
     "timeDay": 362,
     "timeWeek": 502,
-    "timeMonth": 506,
+    "timeMonth": 508,
     "timeYear": 474,
     "dailyMinutesDown": {
       "2024-01-13": 8,
@@ -36,7 +36,7 @@
     "time": 353,
     "timeDay": 123,
     "timeWeek": 177,
-    "timeMonth": 111,
+    "timeMonth": 112,
     "timeYear": 283,
     "dailyMinutesDown": {
       "2023-03-01": 8
@@ -47,19 +47,19 @@
     "url": "$URL_BACKEND",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backend",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 316,
-    "timeWeek": 603,
-    "timeMonth": 636,
+    "time": 615,
+    "timeDay": 525,
+    "timeWeek": 619,
+    "timeMonth": 643,
     "timeYear": 619,
     "dailyMinutesDown": {
-      "2024-01-23": 0
+      "2024-01-23": 4
     }
   }
 ]
