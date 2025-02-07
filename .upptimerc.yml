@@ -23,4 +23,4 @@ status-website:
       href: https://www.forcemanager.com/
 
 workflowSchedule:
-  uptime: "*/30 * * * *"
+  uptime: "0 0 * * *"
